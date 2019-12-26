@@ -2,13 +2,19 @@
 
 This is a full stack reddit clone.
 
-## Installation
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-* node
-* npm
-* mongodb
+```
+node
+npm
+mongodb
+```
+
+### Installing
 
 1. Clone this repository
 
@@ -23,7 +29,7 @@ This is a full stack reddit clone.
     $ npm install
     ```
 
-## Run the app
+### Run the app
 
 1. Start mongodb locally
     ```bash
